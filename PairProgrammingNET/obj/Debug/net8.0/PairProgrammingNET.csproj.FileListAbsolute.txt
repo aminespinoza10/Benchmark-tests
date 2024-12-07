@@ -1,0 +1,14 @@
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/bin/Debug/net8.0/PairProgrammingNET
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/bin/Debug/net8.0/PairProgrammingNET.deps.json
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/bin/Debug/net8.0/PairProgrammingNET.runtimeconfig.json
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/bin/Debug/net8.0/PairProgrammingNET.dll
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/bin/Debug/net8.0/PairProgrammingNET.pdb
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.AssemblyInfoInputs.cache
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.AssemblyInfo.cs
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.csproj.CoreCompileInputs.cache
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.dll
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/refint/PairProgrammingNET.dll
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.pdb
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/PairProgrammingNET.genruntimeconfig.cache
+/mnt/c/Users/amine/Documents/VS Code/Pair/PairProgrammingNET/obj/Debug/net8.0/ref/PairProgrammingNET.dll
